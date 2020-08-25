@@ -42,3 +42,40 @@ Class project for General Assembly Data Analytics Course
 ### Sales per Month in Major Categories 
 
 ![Screen Shot 2020-08-25 at 12.14.10 PM.png](https://github.com/spogoff/iowa_liquor_sales/blob/master/Assets/Screen%20Shot%202020-08-25%20at%2012.14.10%20PM.png?raw=true)
+
+## Suggestions
+
+### Products to Promote
+
+- Whiskies
+   -- Black Velvet
+   -- Jack Daniels Old #7 Black
+   -- Fireball Cinnamon Whiskey
+   -- Crown Royal Canadian Whiskey
+   -- Jim Beam
+
+- Vodkas
+   -- Hawkeye Vodka
+   -- Absolut Swedish Vodka 80 prf
+   -- Grey Goose Vodka
+   
+- Rums
+   -- Captain Morgan Spiced Rum
+   
+### Seasonal Promotions
+ 
+- January : Vodka
+- February : Whiskey
+- May : Gin
+
+### Locations to Divest From
+
+- Dickinson
+- Monona
+- Palo Alto
+- Cerro Gordo
+
+
+
+   
+   
