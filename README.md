@@ -29,3 +29,7 @@ Class project for General Assembly Data Analytics Course
 
 
 ![Screen Shot 2020-08-25 at 12.10.45 PM.png](https://github.com/spogoff/iowa_liquor_sales/blob/master/Assets/Screen%20Shot%202020-08-25%20at%2012.10.45%20PM.png?raw=true)
+
+## Store per Capita vs Total Sales
+
+![Screen Shot 2020-08-25 at 12.12.33 PM.png](https://github.com/spogoff/iowa_liquor_sales/blob/master/Assets/Screen%20Shot%202020-08-25%20at%2012.12.33%20PM.png?raw=true)
