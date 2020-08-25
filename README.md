@@ -1,6 +1,11 @@
 # Liquor Sales In State of Iowa - Marketing Strategy 
 Class project for General Assembly Data Analytics Course
 
+## Techonologies Used
+ 
+ - SQL
+ - Excel
+
 ## Disclaimer
  - Data from 2014
  - Ignored null values
