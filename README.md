@@ -17,4 +17,10 @@ Class project for General Assembly Data Analytics Course
 
 ## Analysis
 
+### Top Sold Categories by Percentage
+
 ![Screen Shot 2020-08-25 at 12.09.23 PM.png](https://github.com/spogoff/iowa_liquor_sales/blob/master/Assets/Screen%20Shot%202020-08-25%20at%2012.09.23%20PM.png?raw=true)
+
+### Most Profitable Products
+
+![Screen Shot 2020-08-25 at 12.09.58 PM.png](https://github.com/spogoff/iowa_liquor_sales/blob/master/Assets/Screen%20Shot%202020-08-25%20at%2012.09.58%20PM.png?raw=true)
