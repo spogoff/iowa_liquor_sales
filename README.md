@@ -15,7 +15,7 @@ Class project for General Assembly Data Analytics Course
 - Number of Counties - 99
 - Total Categoris - 69
 
-## Analysis
+## Visualization
 
 ### Top Sold Categories by Percentage
 
